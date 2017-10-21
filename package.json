@@ -1,0 +1,22 @@
+{
+  "name": "etherproxy",
+  "version": "1.0.0",
+  "description": "This is a web3 proxy to load ethereum statement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DRI-project/EtherProxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DRI-project/EtherProxy/issues"
+  },
+  "homepage": "https://github.com/DRI-project/EtherProxy#readme",
+  "dependencies": {
+    "web3": "^1.0.0-beta.24"
+  }
+}
