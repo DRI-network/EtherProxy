@@ -1,0 +1,9 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: dev-ingress
+spec:
+  backend:
+    serviceName: geth-service
+    servicePort: 80
+    
